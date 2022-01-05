@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-color: white;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+p {
+    font-size: 35px;
+    color: green;
+    font-weight: bold;
+}
